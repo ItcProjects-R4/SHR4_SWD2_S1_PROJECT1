@@ -1,0 +1,16 @@
+Students:
+1/Omar Ahmed Abdalal Mohamed 
+2/Omar Khaled Mansour Elsayed 
+3/Ali Khaled Mohamed Ali 
+4/Mahmoud Mohamed Abdel-Hadi Mohamed 
+5/Aya Ahmed Hassan Mustafa
+
+
+Live Demo:
+https://elearning-platform-keth.vercel.app
+
+GitHub Repository:
+https://github.com/omar-ahmed-2005/elearning-platform
+
+Description:
+E-Learning Platform built using React.js and deployed on Vercel.
